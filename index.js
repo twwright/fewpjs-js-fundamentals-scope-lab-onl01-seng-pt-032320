@@ -1,10 +1,11 @@
-animal = ""
+let animal = ""
 
 function myAnimal() {
   return animal
 }
 
 function yourAnimal() {
+  let y
   return animal
 }
 
